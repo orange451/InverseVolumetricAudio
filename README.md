@@ -1,6 +1,8 @@
 # InverseVolumetricAudio
 Like Volumetric-Audio, but inverse!
 
+Easily add outside ambient audio to your game that dims when you are inside. Sound volumes can be configured with windows to clamp the audios position too!
+
 ### Usage
 ```lua
 local InverseVolumetricAudio = require(game.ReplicatedStorage.InverseVolumetricAudio)
